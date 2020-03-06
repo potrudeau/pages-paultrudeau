@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inika', serif;
+}
+
+p{
+    font-size: 150%;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+}
